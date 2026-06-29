@@ -21,7 +21,7 @@ Action-Items Checklist, Q&A Study Guide, Core Timeline).
       `app/db_helper.py`) — schema + save/read/delete history functions
 - [x] Day 8: Streamlit dashboard layout — file uploader, format
       selector, chunk-size/overlap sliders, static page rendering
-- [x] Day 9: Live progress bar wired to the Map-Reduce loop
+- [ ] Day 9: Live progress bar wired to the Map-Reduce loop
 - [ ] Day 10: Full pipeline integration (upload → process → save → display)
 - [ ] Day 11+: UI polish, performance tuning, testing, docs, demo
 
